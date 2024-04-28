@@ -82,7 +82,7 @@ pipeline{
                             ], 
                             credentialsId: 'nexus-auth', 
                             groupId: 'com.example', 
-                            nexusUrl: '3.111.47.12:8081', 
+                            nexusUrl: '54.90.16.58:8081', 
                             nexusVersion: 'nexus3', 
                             protocol: 'http', 
                             repository: 'maven-demo-releases', 
